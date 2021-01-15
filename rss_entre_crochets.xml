@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>[Entre Crochets]</title>
+				<atom:link href="https://erwanncochery.fr/rss/rss_entre_crochets/" rel="self" type="application/rss+xml" />
+		    <link>https://orleans.radiocampus.org</link>
+		    <description>Entre Crochets est un podcast carnet de voyage de Erwann Cochery, diffusé sur Radio Campus Orléans. Plus d'infos sur https://orleans.radiocampus.org/emission/entre-crochets/</description>
+	    	<lastBuildDate>Tue, 29 Dec 2020 14:15:52 +0000</lastBuildDate>
+	    	<language>fr-FR</language>
+        <pubDate>Wed, 12 Nov 2020 19:41:12 +0000</pubDate>
+        <ttl>60</ttl>
+        <copyright>All rights reserved</copyright>
+        <itunes:subtitle>Podcast par Erwann</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Erwann</itunes:name>
+          <itunes:email>erwann.cochery@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Erwann</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://orleans.radiocampus.org/wp-content/uploads/2020/12/visuel-entre-crochets.png"/>
+        <image>
+          <url>https://orleans.radiocampus.org/wp-content/uploads/2020/12/visuel-entre-crochets.png</url>
+          <title>Erwann</title>
+          <link>https://soundcloud.com/on-air-one</link>
+        </image>
+        <itunes:category text="Society &amp; Culture"/>
+
+
+        <item>
+            <title>Entre Crochets - On en parle sur Radio Campus Orléans</title>
+            <link>https://orleans.radiocampus.org/podcast/entre-crochets-on-en-parle-sur-radio-campus-orleans/</link>
+            <pubDate>Mon, 07 Dec 2020 11:16:52 +0000</pubDate>
+            <itunes:duration>00:31:58</itunes:duration>
+            <itunes:author>Erwann</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Comment a été produite la série ? D'où vient Entre Crochets ? Je réponds aux questions de Mathis et Alyséa sur Radio Campus dans Ecoute ta Fac.</itunes:summary>
+            <itunes:subtitle>Sur Radio Campus Orléans</itunes:subtitle>
+            <description>Comment a été produite la série ? D'où vient Entre Crochets ? Je réponds aux questions de Mathis et Alyséa sur Radio Campus dans Ecoute ta Fac.</description>
+            <guid isPermaLink="false">https://orleans.radiocampus.org/?post_type=podcast&#038;p=24396</guid>
+            <enclosure url="https://orleans.radiocampus.org/wp-content/uploads/2020/12/Entre-Crochets-On-en-discute-sur-Radio-Campus.mp3" length="46052049" type="audio/mpeg" />
+            <itunes:image href="https://orleans.radiocampus.org/wp-content/uploads/2020/12/visuel-entre-crochets7.png"/>
+        </item>
+        <item>
+            <title>Entre Crochets - Épisode 4</title>
+            <link>https://orleans.radiocampus.org/podcast/entre-crochets-episode-4/</link>
+        		<pubDate>Thu, 19 Nov 2020 11:58:50 +0000</pubDate>
+            <itunes:duration>00:32:47</itunes:duration>
+            <itunes:author>Erwann</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Bonjour tout le monde, bienvenue sur le dernier épisode d'Entre Crochets, l'épisode 4. Dans cet épisode on va parler de zéro déchet, de végétarisme en Espagne et visiter des paysages sonore de villes d'Andalousie.
+
+Musiques utilisées dans ce podcast (toutes viennent de la bibliothèque audio de YouTube) :
+. Blue Sky - Quincas Moreira . Boardroom Theme - Unicorn Heads . Eternal Garden - Dan Henig . Fairy Meeting - Emily A. Sprague . Higher Powered - Audio Hertz . Psyche - Dyalla . Pulse - Geographer . Royal - Slenderbeats . Twinkle Twinkle Little Star - Cooper Cannell</itunes:summary>
+            <itunes:subtitle>Une autre vie</itunes:subtitle>
+            <description>Bonjour tout le monde, bienvenue sur le dernier épisode d'Entre Crochets, l'épisode 4. Dans cet épisode on va parler de zéro déchet, de végétarisme en Espagne et visiter des paysages sonore de villes d'Andalousie.
+
+Musiques utilisées dans ce podcast (toutes viennent de la bibliothèque audio de YouTube) :
+. Blue Sky - Quincas Moreira . Boardroom Theme - Unicorn Heads . Eternal Garden - Dan Henig . Fairy Meeting - Emily A. Sprague . Higher Powered - Audio Hertz . Psyche - Dyalla . Pulse - Geographer . Royal - Slenderbeats . Twinkle Twinkle Little Star - Cooper Cannell</description>
+            <guid isPermaLink="false">https://orleans.radiocampus.org/?post_type=podcast&#038;p=23992</guid>
+            <enclosure url="https://orleans.radiocampus.org/wp-content/uploads/2020/11/SE-Entre-crochets-Episode-4.mp3" length="78751039" type="audio/mpeg" />
+            <itunes:image href="https://orleans.radiocampus.org/wp-content/uploads/2020/12/visuel-entre-crochets6.png"/>
+        </item>
+        <item>
+            <title>Entre Crochets - Épisode 3</title>
+            <link>https://orleans.radiocampus.org/podcast/entre-crochets-episode-3/</link>
+        		<pubDate>Wed, 18 Nov 2020 11:55:00 +0000</pubDate>
+            <itunes:duration>00:22:06</itunes:duration>
+            <itunes:author>Erwann</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Episode 3 de cette série autour de mon Erasmus à Séville. Je vous présente mes colocataires et je vous emmène en promenade sonore avec moi sur ce premier semestre.
+Musiques utilisées dans ce podcast (toutes viennent de la bibliothèque audio de YouTube) :
+. Ticker - Silent Partner . Hindsight - Density & Time . Roots_of_Legend - Density & Time . Sunday_Skate_in_Golden_Gate - Otis McDonald . Third_Eyes - Text Me Records Bobby Renz . Spookster - Wayne Jones . Water_Please - Text Me Records GrandBankss . Sour Apples - RAGE . Christmas_Village - Aaron Kenny</itunes:summary>
+            <itunes:subtitle>Une année en Espagne</itunes:subtitle>
+            <description>Episode 3 de cette série autour de mon Erasmus à Séville. Je vous présente mes colocataires et je vous emmène en promenade sonore avec moi sur ce premier semestre.
+              Musiques utilisées dans ce podcast (toutes viennent de la bibliothèque audio de YouTube) :
+              . Ticker - Silent Partner . Hindsight - Density & Time . Roots_of_Legend - Density & Time . Sunday_Skate_in_Golden_Gate - Otis McDonald . Third_Eyes - Text Me Records Bobby Renz . Spookster - Wayne Jones . Water_Please - Text Me Records GrandBankss . Sour Apples - RAGE . Christmas_Village - Aaron Kenny</description>
+            <guid isPermaLink="false">https://orleans.radiocampus.org/?post_type=podcast&#038;p=23991</guid>
+            <enclosure url="https://orleans.radiocampus.org/wp-content/uploads/2020/11/SE-Entre-crochets-Episode-3.mp3" length="53396951" type="audio/mpeg" />
+            <itunes:image href="https://orleans.radiocampus.org/wp-content/uploads/2020/12/visuel-entre-crochets5.png"/>
+        </item>
+        <item>
+            <title>Entre Crochets - Épisode 2</title>
+            <link>https://orleans.radiocampus.org/podcast/entre-crochets-episode-2/</link>
+        		<pubDate>Tue, 17 Nov 2020 11:53:03 +0000</pubDate>
+            <itunes:duration>00:19:11</itunes:duration>
+            <itunes:author>Erwann</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Episode 2 de cette série autour de mon Erasmus à Séville. On parle de tramways qui électrocutent la vierge, de comment trouver son logement en toute sérénité et on se balade dans un parc emblématique de la ville !
+Musiques utilisées dans ce podcast (toutes viennent de la bibliothèque audio de YouTube) :
+. Benji - Dyalla . Connection - Wayne Jones . Finding Light - Dan Lebowitz . Golden Empire - The 126ers . I Miss You - Text Me Records _ Leviathe . Santorini 2 - Vibe Mountain . Shoulder Closures - Gunnar Olsen . Wellington Coffee Shop - Dyalla . Yo Picasso - Verified Picasso</itunes:summary>
+            <itunes:subtitle>Un saut dans l'inconnu</itunes:subtitle>
+            <description>Episode 2 de cette série autour de mon Erasmus à Séville. On parle de tramways qui électrocutent la vierge, de comment trouver son logement en toute sérénité et on se balade dans un parc emblématique de la ville !
+              Musiques utilisées dans ce podcast (toutes viennent de la bibliothèque audio de YouTube) :
+              . Benji - Dyalla . Connection - Wayne Jones . Finding Light - Dan Lebowitz . Golden Empire - The 126ers . I Miss You - Text Me Records _ Leviathe . Santorini 2 - Vibe Mountain . Shoulder Closures - Gunnar Olsen . Wellington Coffee Shop - Dyalla . Yo Picasso - Verified Picasso</description>
+            <guid isPermaLink="false">https://orleans.radiocampus.org/?post_type=podcast&#038;p=23990</guid>
+            <enclosure url="https://orleans.radiocampus.org/wp-content/uploads/2020/11/SE-Entre-crochets-Episode-2.mp3" length="46239443" type="audio/mpeg" />
+            <itunes:image href="https://orleans.radiocampus.org/wp-content/uploads/2020/12/visuel-entre-crochets4.png"/>
+        </item>
+        <item>
+            <title>Entre Crochets - Épisode 1</title>
+            <link>https://orleans.radiocampus.org/podcast/entre-crochets-episode-1/</link>
+        		<pubDate>Mon, 16 Nov 2020 11:52:00 +0000</pubDate>
+            <itunes:duration>00:18:50</itunes:duration>
+            <itunes:author>Erwann</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Je suis à Séville en Espagne pour un an pour faire une année d’Erasmus donc autant en faire un podcast, non ? Dans Entre Crochet on part à la découverte d’une nouvelle ville, d’un nouveau pays et à de nouvelles personnes. Donc viens partager cette expérience avec moi ! Dans cet épisode je prépare mon départ en Espagne, c’est d’ailleurs la première fois que je prends l’avion. C’est un vrai saut dans l’inconnu et je ne peut pas m’empêcher de penser à tout ce qui m’attend une fois sur place.
+
+Musiques utilisées dans ce podcast (toutes viennent de la bibliothèque audio de YouTube) :
+. A Brand New Start – TrackTribe . Alone – Emmit Fenn . Arpeggisynth – Geographer . Homer Said – Dyalla . Interplanetary Alignment – NoMBe . Make Love Not War – Patiño . Mama – Emmit Fenn . Sour Apples – RAGE . Sunrise in Paris – Dan Henig . That Kid in Fourth Grade Who Really Liked the Denver Broncos – Chris Zabriskie (That Kid in Fourth Grade Who Really Liked the Denver Broncos de Chris Zabriskie fait l’objet d’une licence Creative Commons Attribution 4.0. https://creativecommons.org/licenses/by/4.0/ Source : http://chriszabriskie.com/uvp/ Artiste : http://chriszabriskie.com/)</itunes:summary>
+            <itunes:subtitle>Un podcast qui va te faire voyager...</itunes:subtitle>
+            <description>Je suis à Séville en Espagne pour un an pour faire une année d’Erasmus donc autant en faire un podcast, non ? Dans Entre Crochet on part à la découverte d’une nouvelle ville, d’un nouveau pays et à de nouvelles personnes. Donc viens partager cette expérience avec moi ! Dans cet épisode je prépare mon départ en Espagne, c’est d’ailleurs la première fois que je prends l’avion. C’est un vrai saut dans l’inconnu et je ne peut pas m’empêcher de penser à tout ce qui m’attend une fois sur place.
+
+Musiques utilisées dans ce podcast (toutes viennent de la bibliothèque audio de YouTube) :
+. A Brand New Start – TrackTribe . Alone – Emmit Fenn . Arpeggisynth – Geographer . Homer Said – Dyalla . Interplanetary Alignment – NoMBe . Make Love Not War – Patiño . Mama – Emmit Fenn . Sour Apples – RAGE . Sunrise in Paris – Dan Henig . That Kid in Fourth Grade Who Really Liked the Denver Broncos – Chris Zabriskie (That Kid in Fourth Grade Who Really Liked the Denver Broncos de Chris Zabriskie fait l’objet d’une licence Creative Commons Attribution 4.0. https://creativecommons.org/licenses/by/4.0/ Source : http://chriszabriskie.com/uvp/ Artiste : http://chriszabriskie.com/)</description>
+            <guid isPermaLink="false">https://orleans.radiocampus.org/?post_type=podcast&#038;p=23988</guid>
+        		<enclosure url="https://orleans.radiocampus.org/wp-content/uploads/2020/11/SE-Entre-crochets-Episode-1.mp3" length="45368500" type="audio/mpeg" />
+            <itunes:image href="https://orleans.radiocampus.org/wp-content/uploads/2020/12/visuel-entre-crochets3.png"/>
+        </item>
+        <item>
+            <title>Entre Crochets - Introduction</title>
+            <link>https://orleans.radiocampus.org/podcast/entre-crochets-episode-0/</link>
+        		<pubDate>Sun, 29 Dec 2020 12:39:08 +0000</pubDate>
+            <itunes:duration>00:01:16</itunes:duration>
+            <itunes:author>Erwann</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Bienvenue dans l’épisode 0 de Entre Crochets, le micro épisode introductif qui me permet de m’adresser à vous qui découvrez ce podcast et de vous expliquer brièvement en quelques mots ce à quoi vous pouvez vous attendre en l’écoutant.
+Musique utilisée dans ce podcast (provient de la bibliothèque audio de YouTube) :
+. Drifting Sands - JAde Wii</itunes:summary>
+            <itunes:subtitle>Introduction</itunes:subtitle>
+            <description>Bienvenue dans l’épisode 0 de Entre Crochets, le micro épisode introductif qui me permet de m’adresser à vous qui découvrez ce podcast et de vous expliquer brièvement en quelques mots ce à quoi vous pouvez vous attendre en l’écoutant.
+Musique utilisée dans ce podcast (provient de la bibliothèque audio de YouTube) :
+. Drifting Sands - JAde Wii</description>
+            <guid isPermaLink="false">https://orleans.radiocampus.org/?post_type=podcast&#038;p=24798</guid>
+            <enclosure url="https://orleans.radiocampus.org/wp-content/uploads/2020/12/SE-Entre-crochets-Episode-0.mp3" length="3076097" type="audio/mpeg" />
+            <itunes:image href="https://orleans.radiocampus.org/wp-content/uploads/2020/12/visuel-entre-crochets2-1.png"/>
+        </item>
+
+
+</channel>
+	</rss>
